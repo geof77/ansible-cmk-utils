@@ -1,3 +1,6 @@
+
+NOTE: Most of this is obsolete.
+
 cmk-utils
 =========
 
